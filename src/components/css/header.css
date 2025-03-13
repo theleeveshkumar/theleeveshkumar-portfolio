@@ -22,6 +22,9 @@ body {
      font-size: 2.5em;
      margin: 0.5em 0;
      animation: slideIn 1s ease-in-out;
+     text-decoration: none;
+     color: #61dafb;
+     font-style: italic;
 }
 
 .header-nav {
